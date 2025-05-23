@@ -1,5 +1,3 @@
-````markdown
-
 <h1 align="center">Hi 👋, I'm Muhammad Awais Hanif</h1>
 <h3 align="center">🚀 3rd Year Computer Science Student | Data Science Enthusiast | Developer</h3>
 
@@ -18,7 +16,7 @@
 
 ### 🧠 Tech Stack & Tools
 
-```yaml
+
 Languages:        Python, JavaScript, SQL
 Frameworks:       Flask, Django
 AI & ML:          Scikit-Learn, TensorFlow
@@ -53,5 +51,3 @@ Version Control:  Git & GitHub
 ---
 
 > "Code, Learn, Build, Repeat." 💻✨
-
-```
