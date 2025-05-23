@@ -1,14 +1,11 @@
-
-
 ````markdown
+
 <h1 align="center">Hi 👋, I'm Muhammad Awais Hanif</h1>
 <h3 align="center">🚀 3rd Year Computer Science Student | Data Science Enthusiast | Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Data+Scientist+%7C+ML+%7C+DL+%7C+Generative+AI;Web+Developer+%7C+Python+%7C+Flask+%7C+Django;Always+learning+%E2%9C%8C%EF%B8%8F+and+building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
----
 
 ### 👨‍💻 About Me
 
@@ -28,7 +25,7 @@ AI & ML:          Scikit-Learn, TensorFlow
 Database:         MySQL, SQLite
 Tools:            Git, Postman, Bash
 Version Control:  Git & GitHub
-````
+
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,flask,django,sqlite,mysql,tensorflow,sklearn,git,postman,bash,html,css" />
@@ -57,5 +54,4 @@ Version Control:  Git & GitHub
 
 > "Code, Learn, Build, Repeat." 💻✨
 
-```
 ```
