@@ -16,14 +16,12 @@
 
 ### 🧠 Tech Stack & Tools
 
-
-Languages:        Python, JavaScript, SQL
-Frameworks:       Flask, Django
-AI & ML:          Scikit-Learn, TensorFlow
-Database:         MySQL, SQLite
-Tools:            Git, Postman, Bash
-Version Control:  Git & GitHub
-
+**Languages**: Python, JavaScript, SQL  
+**Frameworks**: Flask, Django  
+**AI & ML**: Scikit-Learn, TensorFlow  
+**Database**: MySQL, SQLite  
+**Tools**: Git, Postman, Bash  
+**Version Control**: Git & GitHub
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,flask,django,sqlite,mysql,tensorflow,sklearn,git,postman,bash,html,css" />
@@ -34,8 +32,8 @@ Version Control:  Git & GitHub
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awais-hanif&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awais-hanif&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=awais383&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awais383&layout=compact&theme=radical" height="170" />
 </p>
 
 ---
@@ -43,8 +41,8 @@ Version Control:  Git & GitHub
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="awaishanif0007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/awais-hanif-415381288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:awaishanif0007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/awais-hanif-415381288" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/awais383" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
