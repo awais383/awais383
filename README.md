@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Awais Hanif</h1>
-<h3 align="center">🚀 4th Year Computer Science Student | Data Science Enthusiast | Developer</h3>
+<h3 align="center"> Data Science Enthusiast | Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Data+Scientist+%7C+ML+%7C+DL+%7C+Generative+AI;Web+Developer+%7C+Python+%7C+Flask+%7C+Django;Always+learning+%E2%9C%8C%EF%B8%8F+and+building+%F0%9F%9A%80" alt="Typing SVG" />
@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a **4th-year Computer Science student**
+- 🎓 I'm a **Computer Science graduated**
 - 🔍 Passionate about **Data Science, Machine Learning, Deep Learning, and Generative AI**
 - 💡 I enjoy building **AI-powered web apps** using **Flask**, **Django**, and **TensorFlow**
 - 🌐 Also skilled in **Front-end and Back-end Development**
