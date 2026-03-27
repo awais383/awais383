@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Awais Hanif</h1>
+<h1 align="center">Hi 👋, I'm Awais Hanif</h1>
 <h3 align="center"> Data Science Enthusiast | Developer</h3>
 
 <p align="center">
