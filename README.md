@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a **Computer Science graduated**
+- 🎓 I'm a **Computer Science graduate**
 - 🔍 Passionate about **Data Science, Machine Learning, Deep Learning, and Generative AI**
 - 💡 I enjoy building **AI-powered web apps** using **Flask**, **Django**, and **TensorFlow**
 - 🌐 Also skilled in **Front-end and Back-end Development**
